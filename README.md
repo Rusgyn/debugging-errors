@@ -8,6 +8,5 @@ Web Development Flex Program
 Week 1
 Lesson: Debugging errors
 
-#### Instruction
-
-Fix all the errors in both files (each file may have more than one error), without changing the implementations.
+> #### Instruction
+> Fix all the errors in both files (each file may have more than one error), without changing the implementations.
